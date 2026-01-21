@@ -12,10 +12,10 @@ look into list of changed files
 # git commit -m 'message'
 commiting message to chake file
 
-# git chakeout naem
+# git checkeout naem
 swich to branch
 
-# git chakeout -b name
+# git checkeout -b name
 create a new branch
 
 # git branch
